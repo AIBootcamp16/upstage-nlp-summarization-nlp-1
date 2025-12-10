@@ -61,15 +61,30 @@ e.g.
 
 ### Dataset overview
 
+##### train.csv sample                                               
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/29e93a77-99f3-4186-95d7-e71295bd513d" />      
+
 
 
 ### EDA
 
-- _Describe your EDA process and step-by-step conclusion_
+화자 역할 교체 -> #perseon1# #person2# 위치 변경 -> 데이터 수 2배로 늘림
+
+원본(encoder), 요약문(decoder)의 토큰 길이 파악 -> 토큰의 길이에 맞게 하이퍼파라미터 값 조정 
+
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/a4685d9b-ede0-439a-9f5a-577bfb7de287" />
+
+<img width="600" height="451" alt="image" src="https://github.com/user-attachments/assets/aec85e9e-c70f-45ed-a7b7-ad2077c5d79d" />
+
 
 ### Data Processing
 
-- _Describe data processing process (e.g. Data Labeling, Data Cleaning..)_
+##### 특수문자 및 html 태그 제거
+1. 노이즈를 제거하여 모델의 불필요한 과정 생략
+2. 의미 없는 기호가 차지하던 자리를 실질적인 단어로 채움
+3. 요약문의 정보 밀도 상승
+<img width="200" height="600" alt="image" src="https://github.com/user-attachments/assets/ecc2f472-867b-40c8-90e2-411aacc25b60" />
+
 
 ## 4. Modeling
 
