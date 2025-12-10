@@ -1,4 +1,4 @@
-# Title (Please modify the title)
+# NLP 경진대회
 ## Team
 
 | ![박패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
@@ -17,12 +17,12 @@
 
 ### Overview
 
-- _Write competition information_
+Dialogue Summarization | 일상 대화 요약
+학교 생활, 직장, 치료, 쇼핑, 여가, 여행 등 광범위한 일상 생활 하는 대화들에 대해 요약
 
 ### Timeline
 
-- ex) January 10, 2024 - Start Date
-- ex) February 10, 2024 - Final submission deadline
+2025.11.27 ~ 2025.12.10
 
 ## 2. Components
 
